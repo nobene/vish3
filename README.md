@@ -8,7 +8,7 @@ It's a shameless fork of https://github.com/CRKatri/vsh
 ## Building
 `v .`
 
-Features :
+## Features :
  It has built-in commands : help, cd , pwd, exit
  It has working prompt following scheme : user@machine:$/home/user/ >>
  It has no history, nor it is planned to have such feature.
