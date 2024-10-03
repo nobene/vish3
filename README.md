@@ -18,7 +18,7 @@ It's a shameless fork of :
  It has built-in commands : help, cd , pwd, exit
 
  It has working prompt following scheme : 
- `user@machine:$/home/user/ >> `
+ `_username_@machine:$/home/_username_/ >> `
 
  It has no history, nor it is planned to have such feature.
 
