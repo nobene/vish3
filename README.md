@@ -1,8 +1,12 @@
 # Vish3
 A simple shell written in V. This barely works.
+
 It's a shameless fork of :
+
  https://github.com/CRKatri/vsh
+
  with some improvements.
+
 ## Running
 `v run .`
 
